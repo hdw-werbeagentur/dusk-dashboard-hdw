@@ -1,8 +1,8 @@
 {
-    "name": "beyondcode/dusk-dashboard",
+    "name": "hdw-werbeagentur/dusk-dashboard-hdw",
     "description": "A beautiful dashboard for your Laravel Dusk tests",
     "keywords": [
-        "beyondcode",
+        "hdw",
         "dusk-dashboard"
     ],
     "homepage": "https://github.com/beyondcode/dusk-dashboard",
